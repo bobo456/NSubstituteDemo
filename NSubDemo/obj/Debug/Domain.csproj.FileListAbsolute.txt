@@ -1,0 +1,5 @@
+C:\src\NSubDemo\NSubDemo\bin\Debug\NSubDemo.dll
+C:\src\NSubDemo\NSubDemo\bin\Debug\NSubDemo.pdb
+C:\src\NSubDemo\NSubDemo\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\src\NSubDemo\NSubDemo\obj\Debug\NSubDemo.dll
+C:\src\NSubDemo\NSubDemo\obj\Debug\NSubDemo.pdb

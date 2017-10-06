@@ -1,0 +1,7 @@
+C:\src\NSubDemo\ThirdPartyData\bin\Debug\ThirdPartyData.dll
+C:\src\NSubDemo\ThirdPartyData\bin\Debug\ThirdPartyData.pdb
+C:\src\NSubDemo\ThirdPartyData\bin\Debug\NSubDemo.dll
+C:\src\NSubDemo\ThirdPartyData\bin\Debug\NSubDemo.pdb
+C:\src\NSubDemo\ThirdPartyData\obj\Debug\ThirdPartyData.csprojResolveAssemblyReference.cache
+C:\src\NSubDemo\ThirdPartyData\obj\Debug\ThirdPartyData.dll
+C:\src\NSubDemo\ThirdPartyData\obj\Debug\ThirdPartyData.pdb
